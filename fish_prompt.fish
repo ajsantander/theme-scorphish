@@ -1,4 +1,4 @@
-# name: scorphish
+# name: ajs-scorphish
 
 function _prompt_rubies -a sep_color -a ruby_color -d 'Display current Ruby (rvm/rbenv)'
   [ "$theme_display_ruby" = 'no' ]; and return
